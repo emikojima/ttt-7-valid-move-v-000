@@ -1,5 +1,4 @@
-# code your #valid_move? method here
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 
 def valid_move?(index)
   if index.between?(0,8) 
